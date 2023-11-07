@@ -1,3 +1,11 @@
+## Full Stack Food Delivery App
+## DEMO [https://nkcakes.vercel.app/](https://nkcakes.vercel.app/)
+Frontend: React with Next.js, TypeScript, Tailwind CSS
+<br>Backend: Prisma, PostgreSQL
+<br>Payment Integration: Stripe
+<br>Authentication: Auth.js
+<br>State Management: Next.js Zustand
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
